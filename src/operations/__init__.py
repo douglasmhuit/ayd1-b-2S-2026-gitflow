@@ -1,3 +1,3 @@
 from .suma import sumar
-
-__all__ = ["sumar"]
+from .resta import restar
+__all__ = ["sumar", "restar"]
